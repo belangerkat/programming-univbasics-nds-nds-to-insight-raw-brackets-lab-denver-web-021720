@@ -22,6 +22,8 @@ def directors_totals(nds)
   end
   totals
 end
+end
+
 
   #
   #
